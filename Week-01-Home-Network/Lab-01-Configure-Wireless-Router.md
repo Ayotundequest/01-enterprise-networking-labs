@@ -166,7 +166,7 @@ The completed Cisco Packet Tracer lab can be downloaded below.
 
 The following topology illustrates the completed home network implemented in Cisco Packet Tracer.
 
-![Home Network Topology](Screenshots/Network Topology.png)
+![Home Network Topology](Screenshots/Network-Topology.png)
 
 ---
 
