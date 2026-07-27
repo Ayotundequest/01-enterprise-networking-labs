@@ -147,7 +147,7 @@ The following tests were performed:
 
 The completed Cisco Packet Tracer lab can be downloaded below.
 
-📥 [Download Packet Tracer Lab](PacketTracer/Connect-to-a-Web Server.pka)
+📥 [Download Packet Tracer Lab](PacketTracer/Connect-to-a-Web-Server.pka)
 
 ## Diagram
 
