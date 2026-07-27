@@ -61,7 +61,6 @@ The network solution must:
 
 # Network Topology
 
-Insert the network topology diagram here.
 
 ---
 
