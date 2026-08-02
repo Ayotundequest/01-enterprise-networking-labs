@@ -217,11 +217,11 @@ This demonstrates how NAT hides internal network addressing from external networ
 
 ### Inbound PDU
 
-![Inbound Packet](Screenshots/inbound-pdu.png)
+![Inbound Packet](Screenshots/Inbound.png)
 
 ### Outbound PDU
 
-![Outbound Packet](Screenshots/outbound-pdu.png)
+![Outbound Packet](Screenshots/outbound.png)
 
 ---
 
