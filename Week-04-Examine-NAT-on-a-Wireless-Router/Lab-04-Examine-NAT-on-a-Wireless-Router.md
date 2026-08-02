@@ -179,7 +179,7 @@ The destination remained the same.
 
 This demonstrates how NAT hides internal network addressing from external networks.
 
-![Outbound PDU](Screenshots/Outbound.png)
+![Outbound PDU](Screenshots/Outbound-pdu.png)
 
 ---
 
