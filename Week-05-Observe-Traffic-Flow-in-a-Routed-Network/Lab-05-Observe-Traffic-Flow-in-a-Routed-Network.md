@@ -166,7 +166,7 @@ The following tests confirmed successful implementation:
 
 ## Packet Tracer File
 
-Routed-Network.pka
+![Packet Tracer](PacketTracer/Routed-Network.pka)
 
 
 ---
